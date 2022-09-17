@@ -1,0 +1,12 @@
+public class arraysDemo {
+
+	public static void main(String[] args) {
+		String ogrenci1 = "Mert";
+		String ogrenci2 = "Uğur";
+		String ogrenci3 = "Berkay";
+
+
+
+	}
+
+}

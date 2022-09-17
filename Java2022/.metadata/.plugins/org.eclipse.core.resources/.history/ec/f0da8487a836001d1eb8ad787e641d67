@@ -1,0 +1,16 @@
+
+public class Veriables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Case Sensitive - Büyük Küçük harf duyarlılığı
+		
+		System.out.println("Öğrenci sayım: 9");
+		System.out.println("Öğrenci sayım: 9");
+		System.out.println("Öğrenci sayım: 9");
+		System.out.println("Öğrenci sayım: 9");
+		
+
+	}
+
+}

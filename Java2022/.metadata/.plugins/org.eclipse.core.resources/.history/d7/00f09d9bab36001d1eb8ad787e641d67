@@ -1,0 +1,17 @@
+public class Conditionals {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        
+		int sayi = 14;
+		
+		if(sayi < 20) {
+			
+			System.out.println("Sayı 20 den küçüktür.");
+		}
+		else {
+			System.out.println("Sayı 20 den küçük değildir.");
+		}
+	}
+
+}

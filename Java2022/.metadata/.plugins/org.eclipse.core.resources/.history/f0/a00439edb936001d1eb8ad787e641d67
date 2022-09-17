@@ -1,0 +1,13 @@
+public class SesliHarfler {
+
+	public static void main(String[] args) {
+		char harf = 'A';
+		
+		
+		switch(harf) {
+		
+		}
+
+	}
+
+}
